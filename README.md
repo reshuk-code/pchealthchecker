@@ -74,7 +74,7 @@ markdown
 Copy code
 
 ### **How to Use the README**
-- Replace `https://github.com/your-username/pc-health-checker.git` with your actual GitHub repository URL.
+- Replace `https://github.com/reshuk-code/pc-health-checker.git` with your actual GitHub repository URL.
 - Make sure you have a `LICENSE` file if you are sharing the project with a specific open-source license.
 - You can also expand this README to include any specific setup instructions, deployment notes, or additional configuration details depending on your needs.
 
