@@ -65,7 +65,7 @@ Thanks to the open-source community for contributing to Node.js and related libr
 Developer Information
 Developed by: Reshuk Sapkota
 
-GitHub: https://github.com/reshuksapkota
+GitHub: https://github.com/reshuk-code
 
 Notes
 For mobile devices, the health check will show the server's health status and not the device's health.
