@@ -28,7 +28,7 @@ This project is developed with Node.js and uses the `os` module to gather system
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pc-health-checker.git
+   git clone https://github.com/reshuk-code/pchealthchecker.git
 Navigate to the project directory:
 
 bash
@@ -70,12 +70,4 @@ GitHub: https://github.com/reshuk-code
 Notes
 For mobile devices, the health check will show the server's health status and not the device's health.
 To integrate device health information for mobile, additional JavaScript APIs would be required.
-markdown
-Copy code
 
-### **How to Use the README**
-- Replace `https://github.com/reshuk-code/pc-health-checker.git` with your actual GitHub repository URL.
-- Make sure you have a `LICENSE` file if you are sharing the project with a specific open-source license.
-- You can also expand this README to include any specific setup instructions, deployment notes, or additional configuration details depending on your needs.
-
-This **README** will help anyone who wants to set up or contribute to your project understand the features, installation steps, and technologies used.
